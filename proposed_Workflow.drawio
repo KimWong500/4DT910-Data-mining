@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36">
+  <diagram name="Sida-1" id="zl7JbYox8L3km_BNoo_d">
+    <mxGraphModel dx="1437" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-00nFeZp_-wsxINGul03-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="240" x="280" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="240" x="280" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-2" parent="-00nFeZp_-wsxINGul03-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Student Performance Factors Dataset" vertex="1">
+          <mxGeometry height="30" width="240" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.9999999999998" y="130" as="sourcePoint" />
+            <mxPoint x="510" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-7" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-5" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Exploration&lt;/h1&gt;&lt;p&gt;- inspect variables and data types&lt;/p&gt;&lt;p&gt;- check missing variables / duplicates&lt;/p&gt;&lt;p&gt;- descriptive statistics&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="250" x="275" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-11" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Handling&lt;/h1&gt;&lt;p&gt;- clean inconsitent values&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- encode categorial variables&lt;/span&gt;&lt;/p&gt;&lt;p&gt;- normalize /standardize where needed&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="250" x="275" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-4" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_lvrPzmgOPUptqgNlL0v-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Clustering" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-6" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_lvrPzmgOPUptqgNlL0v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Outlier Detection" vertex="1">
+          <mxGeometry height="30" width="110" x="345" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-8" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="_lvrPzmgOPUptqgNlL0v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dimensionality reduction" vertex="1">
+          <mxGeometry height="30" width="110" x="477.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="520" />
+            </Array>
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="520" />
+            </Array>
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-22" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Student profiles" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-21" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Unusual students" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-23" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lower-dimensionality student representation" vertex="1">
+          <mxGeometry height="30" width="155" x="460" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-25" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-00nFeZp_-wsxINGul03-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Compare with exam score" vertex="1">
+          <mxGeometry height="30" width="155" x="322.5" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="-00nFeZp_-wsxINGul03-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Interpretation&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;- Which profiles perform differently?&lt;/p&gt;&lt;p&gt;- Which students are unusual?&lt;/p&gt;&lt;p&gt;- Which combinations relate to performance?&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="250" x="275" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-5" edge="1" parent="1" source="_lvrPzmgOPUptqgNlL0v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-00nFeZp_-wsxINGul03-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RQ1:&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="643" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-7" edge="1" parent="1" source="_lvrPzmgOPUptqgNlL0v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-00nFeZp_-wsxINGul03-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RQ2:" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="643" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RQ3:&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="502.5" y="643" as="geometry" />
+        </mxCell>
+        <mxCell id="_lvrPzmgOPUptqgNlL0v-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=-0.144;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533.5" y="673" as="sourcePoint" />
+            <mxPoint x="532.6099999999999" y="725.6800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68ER4TCSuh_RdNflv0JY-1" edge="1" parent="1" source="-00nFeZp_-wsxINGul03-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-00nFeZp_-wsxINGul03-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
